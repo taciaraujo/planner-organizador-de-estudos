@@ -1,2 +1,7 @@
-# planner-organizador-de-estudos
-Planner que ajuda na organização da rotina de estudos
+# # Organizador de estudos :books:
+<img src = "img/estudando.jpg">
+
+
+
+Sistema para auxiliar na rotina de estudos facilitando o monitoramento de desempenho.
+
